@@ -39,10 +39,15 @@ If you are interested in our paper and useful for your research, please cite our
 
 
 ## Dependencies
+
 Python -3.6 
+
 pytorch -1.1.0
+
 scikit-learn 0.22.1
+
 scipy 1.3.1
+
 The torchkit is used from [https://github.com/CW-Huang/torchkit](https://github.com/CW-Huang/torchkit) and is adapted to Python 3 
 
 
