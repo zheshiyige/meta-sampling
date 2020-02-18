@@ -24,7 +24,7 @@ python mixture2D.py
 <img src="misc/mix20.png" width="1400">     
 
 
-##Reference
+## Reference
 
 If you are interested in our paper and useful for your research, please cite our paper with the following BibTex entry:
 
