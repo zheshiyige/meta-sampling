@@ -23,6 +23,28 @@ python mixture2D.py
 
 <img src="misc/mix20.png" width="1400">     
 
+### Bayesian Logistic Regression
+
+
+#### usage
+
+With sample parameterization
+
+For each dataset
+
+```
+python NIAF_BLR.py --dataset heart
+```
+
+```
+python NIAF_BLR.py --dataset german
+```
+
+```
+python NIAF_BLR.py --dataset australian
+```
+
+
 
 ## Reference
 
@@ -57,6 +79,6 @@ More code will be added later.
 
 
 ## Question ?
-Please send me an email [zhenyiwa@buffalo.edu](zhenyiwa@buffalo.edu) if you have any question.
+Please send me an email zhenyiwa@buffalo.edu if you have any question.
 
 
