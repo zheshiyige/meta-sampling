@@ -44,6 +44,16 @@ python NIAF_BLR.py --dataset german
 python NIAF_BLR.py --dataset australian
 ```
 
+### Bayesian Meta Regression
+
+
+#### usage
+
+With sample parameterization
+
+```
+python meta_regression.py
+```
 
 
 ## Reference
