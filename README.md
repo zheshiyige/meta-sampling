@@ -56,6 +56,18 @@ python meta_regression.py
 ```
 
 
+### MNIST or CIFAR10 classification
+
+
+#### usage
+
+With multiplicative parametrization
+
+```
+python run_BNN.py
+```
+
+
 ## Reference
 
 If you are interested in our paper and useful for your research, please cite our paper with the following BibTex entry:
